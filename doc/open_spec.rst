@@ -71,7 +71,7 @@ A `ping` request contains the following parameters:
   message, containing these member:
 
   * interval (required, number). Time out to receive the `pong` message from
-    the server, in milliseconds. By default this value is `240000` (i.e. 40
+    the server, in milliseconds. By default this value is `240000` (i.e. 240
     seconds).
 
 This is an example of `ping`:
